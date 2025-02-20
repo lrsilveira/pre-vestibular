@@ -14,7 +14,7 @@
 
 # Sumário
 
-O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente para os principais vestibulares do Brasil, sem depender de cursos pagos. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e comunidades acadêmicas.
+O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e comunidades acadêmicas.
 
 Este guia é voltado para estudantes disciplinados, focados e comprometidos, que possuem hábitos de estudo autônomos e buscam apoio em comunidades estudantis. O projeto não tem qualquer vínculo com cursinhos, instituições de ensino ou empresas do setor educacional.
 
@@ -88,5 +88,4 @@ Criada por [@estuda_mel](https://linktr.ee/estuda_mel), esta planilha pode ser a
 📌 **Este projeto está em constante atualização!**  
 Sugestões de melhorias são bem-vindas para aprimorar ainda mais a experiência dos estudantes. Caso tenha contribuições ou dúvidas, fique à vontade para abrir uma [Issue](https://github.com/lrsilveira/pre-vestibular/issues) no repositório. Se não souber como fazer, veja este [guia do GitHub](https://help.github.com/articles/creating-an-issue/).
 
-Em breve, a página será atualizada com mais conteúdos. Aguardem!
-
+> **Em breve, serão adicionadas recomendações específicas para cada disciplina.** Fique à vontade para sugerir materiais que você considera úteis!
