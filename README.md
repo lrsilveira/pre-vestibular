@@ -62,8 +62,8 @@ Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudo
 Curso | Conteúdos
 :-- | --: 
 [Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Curso sobre técnicas de estudo, memória e aprendizado acelerado. 
-[Como estudar do jeito certo](https://www.youtube.com/playlist?list=PL5TJqBvpXQv7Q2lT7L7BrTrh6tgZY872s) | Série de vídeos sobre tempo, técnicas e discussões sobre aprendizado. Embora focado em computação, os conceitos são aplicáveis a vestibulares.
-[Como passar em provas e concursos – William Douglas](https://youtu.be/UvS8sBe8NrA) | Estratégias de estudo, planejamento e motivação baseadas na experiência do autor, aplicáveis tanto a concursos quanto a vestibulares.
+[Como passar em provas e concursos – William Douglas](https://youtu.be/UvS8sBe8NrA) | Estratégias de estudo, planejamento e motivação baseadas na experiência do autor, aplicáveis tanto a concursos quanto a vestibulares muito concorridos.
+[Como estudar sozinho/por conta própria para o ENEM – Débora Aladim](https://youtu.be/AbXfKxBIJiA) | Dicas simples e práticas para quem quer estudar para o Enem ou vestibulares de forma autodidata, com foco em estratégias de estudos e organização.
 
 ¹ Disponível com legendas em português.
 
