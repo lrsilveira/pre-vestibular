@@ -60,7 +60,7 @@ Alguns tópicos, apesar de não serem essenciais, podem ser úteis na jornada de
 Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudos. Ser autodidata não é apenas estudar sozinho, mas **ser responsável pelo próprio aprendizado**. Isso envolve planejar o que estudar, como estudar e organizar os assuntos de maneira eficiente. Para isso, alguns recursos podem ajudar:
 
 Recurso | Conteúdos
-:-- | --: 
+:-- | :-- 
 [Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Este vídeo oferece um guia detalhado sobre como estudar sozinho para o Enem, útil também para vestibulares, abordando os 4 elementos necessários para um estudo efetivo. Embora o autor também mencione sua plataforma paga ao longo do vídeo, todo o conteúdo pode ser aplicado com materiais gratuitos indicados mais adiante, como planilhas e cronogramas, e _flashcards_ no Anki.
 [Como estudar sozinho/por conta própria para o ENEM – Débora Aladim](https://youtu.be/AbXfKxBIJiA) | Dicas simples e práticas para quem quer estudar para o Enem ou vestibulares de forma autodidata, com foco em estratégias de estudos e organização.
 [Como Estudar a 2 Meses do Enem! (3 Jeitos) – LumberGeek](https://youtu.be/4kjvm6mGzAA) | Neste vídeo, são apresentadas três abordagens comuns para estudar na reta final do ENEM ou vestibulares. Ideal para quem tem pouco tempo e quer ajustar sua rotina de estudos e aumentar as chances de um bom desempenho.
