@@ -14,7 +14,7 @@
 
 # Sumário
 
-O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e comunidades acadêmicas.
+O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de materiais selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e comunidades acadêmicas.
 
 Este guia é voltado para estudantes disciplinados, focados e comprometidos, que possuem hábitos de estudo autônomos e buscam apoio em comunidades estudantis. O projeto não tem qualquer vínculo com cursinhos, instituições de ensino ou empresas do setor educacional.
 
@@ -53,23 +53,25 @@ Para quem vai prestar Univesp, uma boa opção é o [grupo do Telegram do vestib
 
 # Antes de começar
 
-Alguns tópicos, apesar de não serem essenciais, podem ser úteis na jornada de aprendizado. Se preferir, pode pular essa seção por enquanto e visitá-la quando desejar.
+Alguns tópicos, apesar de não serem essenciais, podem ser úteis na jornada de aprendizado. Seria como "afiar o machado" antes de usá-lo para o trabalho.
 
 ## Técnicas de estudo, organização e aprendizagem
 
 Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudos. Ser autodidata não é apenas estudar sozinho, mas **ser responsável pelo próprio aprendizado**. Isso envolve planejar o que estudar, como estudar e organizar os assuntos de maneira eficiente. Para isso, alguns recursos podem ajudar:
 
-Curso | Conteúdos
+Recurso | Conteúdos
 :-- | --: 
-[Aprendendo a aprender](https://pt.coursera.org/learn/aprender) ¹ | Curso sobre técnicas de estudo, memória e aprendizado acelerado. 
-[Como passar em provas e concursos – William Douglas](https://youtu.be/UvS8sBe8NrA) | Estratégias de estudo, planejamento e motivação baseadas na experiência do autor, aplicáveis tanto a concursos quanto a vestibulares muito concorridos.
+
+[Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Este vídeo oferece um guia detalhado sobre como estudar sozinho para o Enem, útil também para vestibulares, abordando os 4 elementos necessários para um estudo efetivo. Embora o autor também mencione sua plataforma paga ao longo do vídeo, todo o conteúdo pode ser aplicado com materiais gratuitos indicados mais adiante, como planilhas e cronogramas, e _flashcards_ no Anki.
 [Como estudar sozinho/por conta própria para o ENEM – Débora Aladim](https://youtu.be/AbXfKxBIJiA) | Dicas simples e práticas para quem quer estudar para o Enem ou vestibulares de forma autodidata, com foco em estratégias de estudos e organização.
+[Como Estudar a 2 Meses do Enem! (3 Jeitos) – LumberGeek](https://youtu.be/4kjvm6mGzAA) | Neste vídeo, são apresentadas três abordagens comuns para estudar na reta final do ENEM ou vestibulares. Ideal para quem tem pouco tempo e quer ajustar sua rotina de estudos e aumentar as chances de um bom desempenho.
+[Aprendendo a aprender – Coursera](https://pt.coursera.org/learn/aprender) ¹ | Curso sobre técnicas de estudo, memória e aprendizado acelerado. Se preferir, pode pular esse curso por enquanto e visitá-lo quando desejar.
 
 ¹ Disponível com legendas em português.
 
 ---
 
-## Planilha de estudos
+## Planilha de estudos e cronogramas
 
 [Planilha Única de 2025 (Versão Pública 1.4)](https://docs.google.com/spreadsheets/d/1uNP5c-ZAY05l9aVExFWSpAuiPoysa8Ei-4F1uIFctrY/edit?gid=439855357#gid=439855357)
 
