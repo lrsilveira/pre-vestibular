@@ -77,7 +77,7 @@ Recurso | Conteúdo
 
 # Planilha de estudos e cronogramas
 
-Seguem sugestões de planilhas e cronogramas gratuitos:
+Seguem sugestões de planilhas e cronogramas gratuitos. Eles listam os conteúdos a serem estudados por disciplina, e não são cronogramas com horários definidos. Para montar um cronograma horário personalizado, veja [este vídeo](https://youtu.be/2j0dc9-a_7M).
 
 > ⚠️ **Observação:** Os cronogramas indicados aqui são gratuitos, mas podem conter propagandas dos criadores. Nenhum deles possui vínculo com o projeto **Pré-Vestibular Livre**.
 
@@ -86,7 +86,7 @@ Recurso | Conteúdos
 [Planilha Única de 2025 (Versão Pública 1.4)](https://docs.google.com/spreadsheets/d/1uNP5c-ZAY05l9aVExFWSpAuiPoysa8Ei-4F1uIFctrY/edit?gid=439855357#gid=439855357) | Planilha de estudos gratuita para Enem, concursos públicos e vestibulares. Destaques: cronograma dinâmico, contador de questões, controle de provas e redação, checklist de temas, heatmap de questões, planner. Inclui cronograma de assuntos do Enem com links diretos para videoaulas gratuitas. Criada por [@estuda_mel](https://linktr.ee/estuda_mel). Contém vídeo explicativo na própria planilha.  
 [Cronograma para o Enem – LumberGeek (2024)](https://www.reddit.com/r/CronogramaENEM/) | Cronograma gratuito de 2024, com tópicos organizados por frequência de cobrança. Instruções de uso disponíveis [neste vídeo](https://youtu.be/sO9iHvwRUO0). **Para vestibulares como Unesp, Univesp, Fuvest e Unicamp, o cronograma é funcional, mas é necessário incluir manualmente os conteúdos que não caem no Enem.** Para quem tem pouco tempo, recomenda-se priorizar o que mais cai.
 [Cronograma para o Enem – Felipe Araújo (2020)](https://www.mediafire.com/file/0ppsyssyh7lrdio/CRONOGRAMA_FELIPE_ARAUJO.pdf/file) | Embora mais antigo (2020), pode servir como inspiração para montar cronogramas personalizados. A explicação do uso está disponível [neste vídeo](https://youtu.be/nHVku7oINqg).  
-[Cronograma para vestibulares – Vinícius Oliveira (2025)](https://plataformaviniciusoliveira.com.br/pvo-2025) | Cronograma com tópicos organizados por disciplina. Algumas seções são vagas ou incompletas. Embora o foco seja medicina, pode ser adaptado para outros cursos. Abrange conteúdos comuns ao Enem, Fuvest, Unicamp e outros vestibulares. **Contém propagandas frequentes do curso pago do autor.** Requer preenchimento de nome, e-mail e WhatsApp para download.
+[Cronograma para vestibulares – Vinícius Oliveira (2025)](https://plataformaviniciusoliveira.com.br/materiais-gratuitos/cronograma-extensivo-2025/download) | Cronograma com tópicos organizados por disciplina. Algumas seções são vagas ou incompletas. Embora o foco seja medicina, pode ser adaptado para outros cursos. Abrange conteúdos comuns ao Enem, Fuvest, Unicamp e outros vestibulares. Inclui cronograma de redação (Enem e outros gêneros textuais). **Contém propagandas frequentes do curso pago do autor.**
 
 ---
 
