@@ -57,13 +57,15 @@ Alguns tópicos, apesar de não serem essenciais, podem ser úteis na jornada de
 
 ## Técnicas de estudo, organização e aprendizagem
 
-Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudos. Ser autodidata não é apenas estudar sozinho, mas **ser responsável pelo próprio aprendizado**. Isso envolve planejar o que estudar, como estudar e organizar os assuntos de maneira eficiente. Para isso, alguns recursos podem ajudar:
+Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudos. Ser autodidata não é apenas estudar sozinho, mas **ser responsável pelo próprio aprendizado**. Isso envolve estratégia — desde o planejamento do que estudar, como estudar e como organizar os assuntos de forma eficiente, até aspectos como o ambiente de estudo, o apoio da família ou de pessoas próximas, a disciplina, a motivação e os cuidados com a saúde física e mental.
+
+A seguir, são apresentados alguns recursos que podem ajudar nessa jornada. Sinta-se à vontade para escolher quais deles deseja adotar como base para sua organização.
 
 > ⚠️ Alguns vídeos listados abaixo mencionam plataformas pagas ou cursos próprios dos autores. Todo o conteúdo educativo, no entanto, pode ser aplicado com os recursos gratuitos indicados neste repositório.
 
 Recurso | Conteúdo
 :-- | :--
-[Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Um guia completo para quem vai estudar sozinho do zero. Explica como montar um plano de estudos baseado no curso e universidade desejados. Apresenta os quatro pilares do estudo eficaz: estratégia, teoria, prática (exercícios) e revisão. Também aborda escolha de materiais e cronograma.
+[Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Um guia completo para quem vai estudar sozinho do zero. Explica como montar um plano de estudos baseado no curso e universidade desejados. Apresenta os quatro pilares do estudo eficaz: estratégia, teoria, prática (exercícios) e revisão. Inclui escolha de materiais e cronograma.
 [Como estudar para o Enem 2025 (do básico ao avançado) – Vinícius Oliveira](https://youtu.be/F2y6cwqFhkE) | Aula detalhada sobre como estudar para vestibulares concorridos. Explica como montar um plano eficaz, com foco em: entendimento do processo, escolha do material, cronograma, metas semanais e saúde mental. Aborda também revisão ativa e simulados.
 [Como eu estudo para sempre ser aprovado em pouco tempo (menos de 1 mês) – Felipe Araújo](https://youtu.be/-ObaCtPwHnE) | Estratégia intensiva para quem tem pouco tempo até a prova. Inclui priorização de conteúdos, rotina de estudos acelerada, uso da técnica Feynman, e ambiente de alta concentração.
 [Como Estudar a 2 Meses do Enem (3 Jeitos) – LumberGeek](https://youtu.be/4kjvm6mGzAA) | Três abordagens diferentes para quem precisa organizar os estudos na reta final. Oferece estratégias baseadas no tempo disponível e no foco em resultados.
@@ -77,11 +79,14 @@ Recurso | Conteúdo
 
 Seguem sugestões de planilhas e cronogramas gratuitos:
 
-Recurso | Conteúdos
-:-- | :-- 
-[Planilha Única de 2025 (Versão Pública 1.4)](https://docs.google.com/spreadsheets/d/1uNP5c-ZAY05l9aVExFWSpAuiPoysa8Ei-4F1uIFctrY/edit?gid=439855357#gid=439855357) | Planilha de estudos gratuita para Enem, concursos públicos e vestibulares. Destaques: Cronograma dinâmico, contador de questões, controle de provas e redação; Checklist de temas; Heatmap de questões; Gamificação; Planner. Criada por [@estuda_mel](https://linktr.ee/estuda_mel). Contém vídeo explicativo na planilha.
-[Cronograma para o Enem – LumberGeek (2024)](https://www.reddit.com/r/CronogramaENEM/) | Cronograma gratuito de 2024, com assuntos detalhados por tópicos e indicação do que cai com mais frequência. Instruções de como usar, [aqui](https://youtu.be/sO9iHvwRUO0).
-[Cronograma para o Enem – Felipe Araújo (2020)](https://www.mediafire.com/file/0ppsyssyh7lrdio/CRONOGRAMA_FELIPE_ARAUJO.pdf/file) | Embora mais antigo (2020), pode servir como ideia para montagem de cronogramas para outras provas. A explicação desse cronograma pode ser encontrada [aqui](https://youtu.be/nHVku7oINqg).
+> ⚠️ **Observação:** Os cronogramas indicados aqui são gratuitos, mas podem conter propagandas dos criadores. Nenhum deles possui vínculo com o projeto **Pré-Vestibular Livre**.
+
+Recurso | Conteúdos  
+:-- | :--  
+[Planilha Única de 2025 (Versão Pública 1.4)](https://docs.google.com/spreadsheets/d/1uNP5c-ZAY05l9aVExFWSpAuiPoysa8Ei-4F1uIFctrY/edit?gid=439855357#gid=439855357) | Planilha de estudos gratuita para Enem, concursos públicos e vestibulares. Destaques: cronograma dinâmico, contador de questões, controle de provas e redação, checklist de temas, heatmap de questões, planner. Inclui cronograma de assuntos do Enem com links diretos para videoaulas gratuitas. Criada por [@estuda_mel](https://linktr.ee/estuda_mel). Contém vídeo explicativo na própria planilha.  
+[Cronograma para o Enem – LumberGeek (2024)](https://www.reddit.com/r/CronogramaENEM/) | Cronograma gratuito de 2024, com tópicos organizados por frequência de cobrança. Instruções de uso disponíveis [neste vídeo](https://youtu.be/sO9iHvwRUO0). **Para vestibulares como Unesp, Univesp, Fuvest e Unicamp, o cronograma é funcional, mas é necessário incluir manualmente os conteúdos que não caem no Enem.** Para quem tem pouco tempo, recomenda-se priorizar o que mais cai.
+[Cronograma para o Enem – Felipe Araújo (2020)](https://www.mediafire.com/file/0ppsyssyh7lrdio/CRONOGRAMA_FELIPE_ARAUJO.pdf/file) | Embora mais antigo (2020), pode servir como inspiração para montar cronogramas personalizados. A explicação do uso está disponível [neste vídeo](https://youtu.be/nHVku7oINqg).  
+[Cronograma para vestibulares – Vinícius Oliveira (2025)](https://plataformaviniciusoliveira.com.br/pvo-2025) | Cronograma com tópicos organizados por disciplina. Algumas seções são vagas ou incompletas. Embora o foco seja medicina, pode ser adaptado para outros cursos. Abrange conteúdos comuns ao Enem, Fuvest, Unicamp e outros vestibulares. **Contém propagandas frequentes do curso pago do autor.** Requer preenchimento de nome, e-mail e WhatsApp para download.
 
 ---
 
