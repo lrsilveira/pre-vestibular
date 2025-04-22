@@ -90,16 +90,69 @@ Recurso | Conteúdos
 
 ---
 
-# _Flashcards_ e outras ferramentas para revisão
+## 🧠 Ferramentas para revisão ativa
 
-Os _flashcards_ são uma ferramenta poderosa para a revisão ativa, auxiliando na memorização de fórmulas, conceitos e vocabulário. Além de _flashcards_, existem outros métodos de revisão eficientes que podem ser utilizados, dependendo do que funcione melhor para você. Portanto, não se limite apenas a _flashcards_. A seguir, são apresentadas algumas dicas:
+A **revisão ativa (_active recall_)** é uma das formas mais eficazes de memorização. Ela consiste em **recuperar informações da memória sem ajuda externa**, em vez de apenas reler ou assistir novamente (revisão passiva).  
+Existem várias formas de aplicá-la. Abaixo, você encontrará algumas ferramentas e estratégias comprovadamente eficazes:
 
-## Ferramentas e Dicas
-- [**Anki:**](https://apps.ankiweb.net/) Aplicativo com versões para _desktop_, iOS e Android. É uma das ferramentas mais populares para criar e revisar _flashcards_. É recomendado que você crie seus próprios _flashcards_. Porém, você também pode encontrar vários prontos de algum estudante que criou e disponibilizou, como [neste exemplo](https://ankiweb.net/shared/info/1430243551). Maiores detalhes de como usar o _Anki_ e criar _flashcards_ podem ser facilmente encontrados pela internet.
-- **Revisão ativa, tipos de _flashcards_ e suas limitações:**
-  - [LumberGeek – Como Decorei TUDO para o ENEM (SEM Flashcard)](https://youtu.be/g7NE8bm-kWA) – O vídeo traz ponderações sobre quando usar _flashcards_ e explora outras técnicas de memorização, para Enem ou qualquer tipo de prova.
-- **_Flashcards_ vs. roteiro resumido**  
-  - A revisão ativa (aquilo que te leva a recuperar as coisas de sua memória) é mais eficaz do que a passiva (leitura sem interação). Adapte os _flashcards_ ao tipo de conteúdo: para matérias que envolvem muita memorização (decoreba), _flashcards_ podem ser ideais; já para conteúdos mais interpretativos, considere outras abordagens, como recuperar da memória (refazer sem olhar) um roteiro resumido que você criou sobre um assunto, ou ensinar o assunto a outra pessoa, conforme dicas do vídeo anterior. [Neste vídeo](https://youtu.be/wk3ZlXfuxRE) tem mais explicações sobre esse método com um exemplo.
+---
+
+<details>
+<summary><strong>📌 Flashcards</strong> — Bons para conteúdos que exigem memorização direta (decoreba)</summary>
+
+Embora os _flashcards_ sejam uma boa ferramenta, eles variam bastante em nível de ativação da memória, dependendo do formato (com lacunas, imagens, siglas ou perguntas abertas). Muitos _flashcards_, na prática, acabam sendo mais passivos do que parecem.
+
+✅ São ideais para:
+- Fórmulas
+- Conceitos diretos
+- Vocabulário técnico ou de aprendizado de um novo idioma
+
+📱 Uma das ferramentas mais populares para criar e revisar _flashcards_ é o [**Anki**](https://apps.ankiweb.net/), com versões para desktop, iOS e Android. É recomendado que você crie seus próprios _flashcards_, mas também pode usar "baralhos" prontos, como [este exemplo](https://ankiweb.net/shared/info/1430243551).
+
+</details>
+
+---
+
+<details>
+<summary><strong>🧾 Roteiros-resumo personalizados</strong> — Ótimo para conteúdos interpretativos e difíceis</summary>
+
+Baseado em técnicas de ensino reverso, esse método propõe que você escreva um **resumo como se fosse ensinar alguém**.
+
+👣 Passos:
+1. Assista à aula e anote os pontos que você mais erraria.
+2. Crie um resumo simples e direto (até 1 página).
+3. Após um tempo, **reescreva o resumo do zero**, sem consultar o original.
+
+📺 Apresentado neste vídeo: [Como decorei TUDO para o ENEM (sem flashcard)](https://youtu.be/g7NE8bm-kWA)  
+📄 Exemplo prático: [Vídeo complementar aqui](https://youtu.be/wk3ZlXfuxRE)
+
+🎯 Indicado para:
+- Temas complexos
+- Matérias que exigem compreensão e raciocínio
+- Revisar antes de simulados ou redações
+
+</details>
+
+---
+
+<details>
+<summary><strong>🧪 Revisão com questões direcionadas</strong> — Reforço ativo com prática inteligente</summary>
+
+Essa técnica, explicada neste [vídeo do Vinícius Oliveira](https://youtu.be/uj1gtpMAPFU), consiste em usar **questões como forma de revisar o que já foi estudado**, e não só testar assuntos novos.
+
+🧩 Como aplicar:
+- Ao resolver, por exemplo, 20 questões da disciplina, separe:
+  - 10 questões sobre o conteúdo estudado no dia
+  - 10 questões sobre conteúdos anteriores (revisão) dentre todo o conteúdo estudado até então nessa disciplina
+
+💡 Você pode usar plataformas de questões com filtros por assunto ou listas temáticas da internet.
+
+📌 Benefícios:
+- Fortalece a memória de longo prazo
+- Ajuda a identificar e revisar pontos fracos
+- Integra estudo novo com revisão automática
+
+</details>
 
 ---
 
