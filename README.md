@@ -59,15 +59,17 @@ Alguns tópicos, apesar de não serem essenciais, podem ser úteis na jornada de
 
 Antes de mais nada, é importante conhecer as ferramentas que otimizam os estudos. Ser autodidata não é apenas estudar sozinho, mas **ser responsável pelo próprio aprendizado**. Isso envolve planejar o que estudar, como estudar e organizar os assuntos de maneira eficiente. Para isso, alguns recursos podem ajudar:
 
-Recurso | Conteúdos
-:-- | :-- 
-[Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Este vídeo oferece um guia detalhado sobre como estudar sozinho para o Enem, útil também para vestibulares, abordando os 4 elementos necessários para um estudo efetivo. Embora o autor também mencione sua plataforma paga ao longo do vídeo, todo o conteúdo pode ser aplicado com materiais gratuitos, como [planilhas e cronogramas](#planilha-de-estudos-e-cronogramas), e [_flashcards_](#flashcards-e-outras-ferramentas-para-revisao).
-[13 Dicas para Montar um Plano de Estudos Perfeito](https://guiadoestudante.abril.com.br/estudo/13-dicas-para-montar-um-plano-de-estudos-perfeito-para-os-vestibulares) | Artigo em texto com dicas práticas para montar um plano de estudos eficaz para vestibulares, com orientações passo a passo.
-[Como estudar sozinho/por conta própria para o ENEM – Débora Aladim](https://youtu.be/AbXfKxBIJiA) | Dicas simples e práticas para quem quer estudar para o Enem ou vestibulares de forma autodidata, com foco em estratégias de estudos e organização.
-[Como Estudar a 2 Meses do Enem! (3 Jeitos) – LumberGeek](https://youtu.be/4kjvm6mGzAA) | Neste vídeo, são apresentadas três abordagens comuns para estudar na reta final do Enem ou vestibulares. Ideal para quem tem pouco tempo e quer ajustar sua rotina de estudos e aumentar as chances de um bom desempenho. Para quem quer focar apenas no Enem, tem outros vídeos com orientações mais específicas no mesmo canal.
-[Aprendendo a aprender – Coursera](https://pt.coursera.org/learn/aprender) ¹ | Curso sobre técnicas de estudo, memória e aprendizado acelerado. Se preferir, pode pular esse curso por enquanto e visitá-lo quando desejar.
+> ⚠️ Alguns vídeos listados abaixo mencionam plataformas pagas ou cursos próprios dos autores. Todo o conteúdo educativo, no entanto, pode ser aplicado com os recursos gratuitos indicados neste repositório.
 
-¹ Disponível com legendas em português.
+Recurso | Conteúdo
+:-- | :--
+[Como estudar em casa para o Enem (2025) – Felipe Araújo](https://youtu.be/umkW28lgQ8U) | Um guia completo para quem vai estudar sozinho do zero. Explica como montar um plano de estudos personalizado com base no curso e universidade desejados. Apresenta os quatro pilares do estudo eficaz: estratégia, teoria, prática (exercícios) e revisão. Também aborda escolha de materiais e cronograma.
+[Como estudar para o Enem 2025 (do básico ao avançado) – Vinícius Oliveira](https://youtu.be/F2y6cwqFhkE) | Aula bem detalhada sobre como estudar para vestibulares muito concorridos na prática. Explica como montar um plano de estudos eficaz para o Enem ou vestibulares, com destaque para: entendimento do processo, escolha do material, montagem do cronograma, definição de metas semanais e cuidados com saúde mental. Aborda também revisão ativa e uso de simulados.
+[Como eu estudo para sempre ser aprovado em pouco tempo (menos de 1 mês) – Felipe Araújo](https://youtu.be/-ObaCtPwHnE) | Estratégia para estudar muito em pouco tempo. Ideal para quem tem prazo curto até a prova (Enem, vestibulares ou concurso público). Inclui técnicas de priorização de conteúdos, rotina intensiva de estudos, método de formatação (resumo com manipulação ativa da informação), uso de biblioteca para foco total, e aplicação da técnica Feynman para consolidar temas complexos.
+[Como Estudar a 2 Meses do Enem (3 Jeitos) – LumberGeek](https://youtu.be/4kjvm6mGzAA) | Três abordagens diferentes para quem precisa organizar os estudos na reta final. Oferece estratégias baseadas no tempo disponível e no foco em resultados.
+[Como estudar sozinho por conta própria – Débora Aladim](https://youtu.be/AbXfKxBIJiA) | Vídeo leve e motivador com dicas práticas para manter disciplina, montar horários, aproveitar a tecnologia e buscar apoio em grupos de amigos ou familiares. Ideal para iniciantes no estudo autônomo.
+[13 Dicas para montar um plano de estudos perfeito – Guia do Estudante](https://guiadoestudante.abril.com.br/estudo/13-dicas-para-montar-um-plano-de-estudos-perfeito-para-os-vestibulares) | Artigo com orientações diretas sobre como organizar um plano de estudos realista e eficaz, abordando metas, disciplina, pausas e autoconhecimento.
+[Aprendendo a aprender – Coursera](https://pt.coursera.org/learn/aprender) | Curso gratuito (com legendas em português) sobre técnicas de memorização, aprendizagem acelerada e funcionamento do cérebro. Recomendado para aprofundar os conhecimentos em como estudar melhor.
 
 ---
 
