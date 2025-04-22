@@ -9,9 +9,10 @@
 
 - [Sumário](#sum%C3%A1rio)
 - [Comunidade](#comunidade)
-- [Antes de começar](#antes-de-come%C3%ar)
+- [Antes de começar](#antes-de-come%C3%A7ar) antes-de-come%C3%A7ar
 - [Planilha de estudos e cronogramas](#planilha-de-estudos-e-cronogramas)
-
+- [Ferramentas para revisão ativa](#%F0%9F%A7%A0%20Ferramentas%20para%20revis%C3%A3o%20ativa)
+  
 # Sumário
 
 O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de materiais selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e grupos de estudo.
@@ -90,7 +91,7 @@ Recurso | Conteúdos
 
 ---
 
-## 🧠 Ferramentas para revisão ativa
+# 🧠 Ferramentas para revisão ativa
 
 A **revisão ativa (_active recall_)** é uma das formas mais eficazes de memorização. Ela consiste em **recuperar informações da memória sem ajuda externa**, em vez de apenas reler ou assistir novamente (revisão passiva).  
 Existem várias formas de aplicá-la. Abaixo, você encontrará algumas ferramentas e estratégias comprovadamente eficazes:
