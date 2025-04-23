@@ -1,3 +1,5 @@
+> 📘 Um guia gratuito e colaborativo para quem quer estudar por conta própria e se preparar para o Enem e vestibulares — com liberdade, organização e bons materiais.
+
 <div align="center" style="text-align: center">
 <h3>Pré-vestibular Livre</h3>
 <p>
@@ -19,6 +21,8 @@
 # Sumário
 
 O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de materiais selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e grupos de estudo.
+
+> ⚠️ Em breve, este repositório contará com uma seção dedicada às disciplinas, com sugestões de livros, videoaulas e outros materiais para cada uma.
 
 Este guia é voltado para estudantes disciplinados, focados e comprometidos, que possuem hábitos de estudo autônomos e buscam apoio em comunidades estudantis. O projeto não tem qualquer vínculo com cursinhos, instituições de ensino ou empresas do setor educacional.
 
@@ -219,10 +223,13 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 
 > 💡 Na página da Comvest, role para baixo e escolha um ano de ingresso. Na nova página, role para baixo e em FORMAS DE INGRESSO NA UNICAMP, selecione _Vestibular (ano)_. Na nova página, clique em _provas_.
 
-📌 Se você conhece outras páginas oficiais com provas anteriores de vestibulares públicos ou privados que deseje acrescentar, fique à vontade para abrir uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) e sugerir a inclusão.
+📌 Conhece outras páginas oficiais com provas anteriores de vestibulares públicos ou privados? Fique à vontade para abrir uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) e sugerir a inclusão.
 
+---
 
 📌 **Este projeto está em constante atualização!**  
-Sugestões de melhorias são bem-vindas para aprimorar ainda mais a experiência dos estudantes. Caso tenha contribuições ou dúvidas, fique à vontade para abrir uma [Issue](https://github.com/lrsilveira/pre-vestibular/issues) no repositório. Se não souber como fazer, veja este [guia do GitHub](https://help.github.com/articles/creating-an-issue/).
+Novos conteúdos, como recomendações por disciplina, serão adicionados gradualmente. Se quiser colaborar com sugestões ou tirar dúvidas, abra uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) — sua participação é bem-vinda!
 
-> **Em breve, serão adicionadas recomendações específicas para cada disciplina.** Fique à vontade para sugerir materiais que você considera úteis!
+## 👤 Autor
+
+* **[Luciano](https://github.com/lrsilveira)** – idealizador e mantenedor do projeto
