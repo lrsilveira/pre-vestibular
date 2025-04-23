@@ -22,14 +22,12 @@
 
 O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de materiais selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e grupos de estudo.
 
-> ⚠️ Em breve, este repositório contará com uma seção dedicada às disciplinas, com sugestões de livros, videoaulas e outros materiais para cada uma.
-
 Este guia é voltado para estudantes disciplinados, focados e comprometidos, que possuem hábitos de estudo autônomos e buscam apoio em comunidades estudantis. O projeto não tem qualquer vínculo com cursinhos, instituições de ensino ou empresas do setor educacional.
 
 ## Bases para a lista de materiais didáticos
 
 ### **Abrangência de conteúdo**
-A seleção de materiais considera os conteúdos abordados no ensino médio, no ENEM e nos principais vestibulares do Brasil. Itens que são específicos de cada vestibular não foram incluídos por enquanto, como por exemplo lista de obras literárias.
+A seleção de materiais considera os conteúdos abordados no ensino médio, no ENEM e nos principais vestibulares do Brasil. Itens específicos de cada prova, como listas de obras literárias obrigatórias, ainda não foram incluídos.
 
 Referências utilizadas:
 
@@ -44,7 +42,12 @@ Referências utilizadas:
 ### **Materiais didáticos**
 A seleção de materiais se baseia em indicações de professores do ensino médio e de cursinhos, além de sugestões de estudantes em grupos de estudo. Também inclui alguns materiais utilizados por experiência própria.
 
-Cada disciplina conta com leituras recomendadas, além de indicações de sites confiáveis, canais no YouTube, vídeos didáticos e simuladores interativos. Cabe ao estudante escolher a metodologia que melhor se adapta ao seu perfil. A maioria dos livros recomendados **não são gratuitos**.
+📌 **Em breve, serão adicionadas recomendações específicas para cada disciplina**, com indicações de:
+- Leituras recomendadas (gratuitas ou pagas);
+- Sites confiáveis e simuladores interativos, conforme o caso;
+- Vídeos explicativos e canais no YouTube.
+
+Enquanto isso, os recursos já disponíveis — como cronogramas, técnicas de estudo, exercícios e apostilas gratuitas — podem ser usados para organizar sua rotina de estudos e guiar sua preparação de forma autônoma.
 
 > **Aviso:**
 > As recomendações de materiais são baseadas na qualidade e no acesso gratuito sempre que possível. No entanto, alguns conteúdos podem conter menções a cursos pagos, cupons ou promoções. O **Pré-Vestibular Livre não possui qualquer vínculo comercial** com essas ofertas e não recebe benefícios por indicações. O objetivo é apenas fornecer recursos úteis para estudo independente.
