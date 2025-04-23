@@ -14,6 +14,7 @@
 - [🧠 Ferramentas para revisão ativa](#ferramentas-para-revis%C3%A3o-ativa)
 - [🗂️ Listas de questões organizadas por assunto](#listas-de-quest%C3%B5es-organizadas-por-assunto)
 - [📘 Apostilas gratuitas de cursinhos](#apostilas-gratuitas-de-cursinhos)
+- [📄 Provas anteriores e simulados](#provas-anteriores-e-simulados)
   
 # Sumário
 
@@ -197,6 +198,29 @@ O projeto [Hexag Solidário](https://cursinhoparamedicina.com.br/hexag-solidario
 👉 [https://cursinhoparamedicina.com.br/hexag-solidario/material-didatico-2023/](https://cursinhoparamedicina.com.br/hexag-solidario/material-didatico-2023/)
 
 ---
+
+# Provas anteriores e simulados
+
+Resolver provas anteriores é uma das formas mais eficazes de se preparar para o vestibular. Aqui estão os links para provas oficiais com gabaritos, separados por vestibular:
+
+### 📝 Enem
+👉 [Provas e gabaritos do Enem – Site oficial do Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)
+
+### 🧑‍💻 Univesp
+👉 [Provas e gabaritos anteriores da Univesp](https://univesp.br/vestibular)
+
+> 💡 Na página da Univesp, role para baixo para ver os exames completos dos anos anteriores.
+
+### 📚 Fuvest
+👉 [Acervo – Vestibular da USP](https://www.fuvest.br/acervo-vestibular)
+
+### 📘 Unicamp
+👉 [Comvest - anos anteriores](https://www.comvest.unicamp.br/vestibulares-anteriores/)
+
+> 💡 Na página da Comvest, role para baixo e escolha um ano de ingresso. Na nova página, role para baixo e em FORMAS DE INGRESSO NA UNICAMP, selecione _Vestibular (ano)_. Na nova página, clique em _provas_.
+
+📌 Se você conhece outras páginas oficiais com provas anteriores de vestibulares públicos ou privados que deseje acrescentar, fique à vontade para abrir uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) e sugerir a inclusão.
+
 
 📌 **Este projeto está em constante atualização!**  
 Sugestões de melhorias são bem-vindas para aprimorar ainda mais a experiência dos estudantes. Caso tenha contribuições ou dúvidas, fique à vontade para abrir uma [Issue](https://github.com/lrsilveira/pre-vestibular/issues) no repositório. Se não souber como fazer, veja este [guia do GitHub](https://help.github.com/articles/creating-an-issue/).
