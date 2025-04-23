@@ -9,9 +9,10 @@
 
 - [Sumário](#sum%C3%A1rio)
 - [Comunidade](#comunidade)
-- [Antes de começar](#antes-de-come%C3%A7ar) antes-de-come%C3%A7ar
+- [Antes de começar](#antes-de-come%C3%A7ar)
 - [Planilha de estudos e cronogramas](#planilha-de-estudos-e-cronogramas)
-- [Ferramentas para revisão ativa](#%F0%9F%A7%A0%20Ferramentas%20para%20revis%C3%A3o%20ativa)
+- [🧠 Ferramentas para revisão ativa](#ferramentas-para-revis%C3%A3o-ativa)
+- [🗂️ Listas de questões organizadas por assunto](listas-de-quest%C3%B5es-organizadas-por-assunto)
   
 # Sumário
 
@@ -156,6 +157,25 @@ Essa técnica, explicada neste [vídeo do Vinícius Oliveira](https://youtu.be/u
 </details>
 
 ---
+
+# 🗂️ Listas de questões organizadas por assunto
+
+O site [Projeto Medicina](https://projetomedicina.com.br/materias/) oferece gratuitamente **listas de exercícios separadas por disciplina e por tema**, com gabarito. É uma excelente fonte para praticar resolução de questões de forma direcionada, principalmente para quem estuda por assuntos.
+
+📌 As disciplinas disponíveis incluem:
+- Matemática, Física, Química e Biologia;
+- Geografia, História, Filosofia, Sociologia e Português;
+- Redação e Interpretação de Texto.
+
+📝 Cada lista pode ser acessada diretamente pelo navegador e baixada em PDF. Os arquivos incluem:
+- Um conjunto de questões sobre o tema escolhido;
+- Gabarito ao final.
+
+⚠️ **Observação importante:** Na primeira página dos PDFs aparece um link para "baixar todo o conteúdo de uma só vez", que leva a uma página com planos pagos. No entanto, **todo o restante das listas continua gratuito**, e você pode baixar individualmente quantas quiser, sem precisar pagar nada.
+
+🔗 Acesse as listas organizadas por matéria aqui:  
+👉 [https://projetomedicina.com.br/materias/](https://projetomedicina.com.br/materias/)
+
 
 📌 **Este projeto está em constante atualização!**  
 Sugestões de melhorias são bem-vindas para aprimorar ainda mais a experiência dos estudantes. Caso tenha contribuições ou dúvidas, fique à vontade para abrir uma [Issue](https://github.com/lrsilveira/pre-vestibular/issues) no repositório. Se não souber como fazer, veja este [guia do GitHub](https://help.github.com/articles/creating-an-issue/).
