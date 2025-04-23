@@ -12,7 +12,7 @@
 - [Antes de começar](#antes-de-come%C3%A7ar)
 - [Planilha de estudos e cronogramas](#planilha-de-estudos-e-cronogramas)
 - [🧠 Ferramentas para revisão ativa](#ferramentas-para-revis%C3%A3o-ativa)
-- [🗂️ Listas de questões organizadas por assunto](listas-de-quest%C3%B5es-organizadas-por-assunto)
+- [🗂️ Listas de questões organizadas por assunto](#listas-de-quest%C3%B5es-organizadas-por-assunto)
   
 # Sumário
 
