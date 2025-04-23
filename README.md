@@ -7,12 +7,13 @@
 
 # Conteúdos
 
-- [Sumário](#sum%C3%A1rio)
-- [Comunidade](#comunidade)
-- [Antes de começar](#antes-de-come%C3%A7ar)
-- [Planilha de estudos e cronogramas](#planilha-de-estudos-e-cronogramas)
+- [📚 Sumário](#sum%C3%A1rio)
+- [💬 Comunidade](#comunidade)
+- [🔧 Antes de começar](#antes-de-come%C3%A7ar)
+- [📊 Planilha de estudos e cronogramas](#planilha-de-estudos-e-cronogramas)
 - [🧠 Ferramentas para revisão ativa](#ferramentas-para-revis%C3%A3o-ativa)
 - [🗂️ Listas de questões organizadas por assunto](#listas-de-quest%C3%B5es-organizadas-por-assunto)
+- [📘 Apostilas gratuitas de cursinhos](#apostilas-gratuitas-de-cursinhos)
   
 # Sumário
 
@@ -92,7 +93,7 @@ Recurso | Conteúdos
 
 ---
 
-# 🧠 Ferramentas para revisão ativa
+# Ferramentas para revisão ativa
 
 A **revisão ativa (_active recall_)** é uma das formas mais eficazes de memorização. Ela consiste em **recuperar informações da memória sem ajuda externa**, em vez de apenas reler ou assistir novamente (revisão passiva).  
 Existem várias formas de aplicá-la. Abaixo, você encontrará algumas ferramentas e estratégias comprovadamente eficazes:
@@ -158,7 +159,7 @@ Essa técnica, explicada neste [vídeo do Vinícius Oliveira](https://youtu.be/u
 
 ---
 
-# 🗂️ Listas de questões organizadas por assunto
+# Listas de questões organizadas por assunto
 
 O site [Projeto Medicina](https://projetomedicina.com.br/materias/) oferece gratuitamente **listas de exercícios separadas por disciplina e por tema**, com gabarito. É uma excelente fonte para praticar resolução de questões de forma direcionada, principalmente para quem estuda por assuntos.
 
@@ -176,6 +177,26 @@ O site [Projeto Medicina](https://projetomedicina.com.br/materias/) oferece grat
 🔗 Acesse as listas organizadas por matéria aqui:  
 👉 [https://projetomedicina.com.br/materias/](https://projetomedicina.com.br/materias/)
 
+---
+
+# Apostilas gratuitas de cursinhos
+
+O projeto [Hexag Solidário](https://cursinhoparamedicina.com.br/hexag-solidario/) disponibiliza gratuitamente **apostilas completas e materiais de apoio** do cursinho pré-vestibular voltado para medicina, organizados por disciplina. Por serem elaboradas para um vestibular tão exigente, também são úteis para quem vai prestar **qualquer outro vestibular**.
+
+📌 O que você encontra na página:
+- Apostilas teóricas completas (formato PDF), com conteúdo bem estruturado por matéria;
+- Plano de estudos sugerido para organização semanal;
+- Simulados de 2024 (com gabarito);
+- Link para o canal oficial no YouTube com videoaulas dos principais temas.
+
+🧾 Detalhes importantes:
+- **Não é necessário preencher formulário para baixar os materiais**;
+- Os arquivos disponíveis são referentes ao material do ano de 2023, mas seguem altamente relevantes para quem se prepara para Enem e principais vestibulares.
+
+📥 Acesse diretamente a página de materiais gratuitos:  
+👉 [https://cursinhoparamedicina.com.br/hexag-solidario/material-didatico-2023/](https://cursinhoparamedicina.com.br/hexag-solidario/material-didatico-2023/)
+
+---
 
 📌 **Este projeto está em constante atualização!**  
 Sugestões de melhorias são bem-vindas para aprimorar ainda mais a experiência dos estudantes. Caso tenha contribuições ou dúvidas, fique à vontade para abrir uma [Issue](https://github.com/lrsilveira/pre-vestibular/issues) no repositório. Se não souber como fazer, veja este [guia do GitHub](https://help.github.com/articles/creating-an-issue/).
