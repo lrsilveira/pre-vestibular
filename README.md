@@ -29,7 +29,7 @@ Este guia é voltado para estudantes disciplinados, focados e comprometidos, que
 ### **Abrangência de conteúdo**
 Os temas abordados neste projeto contemplam o conteúdo típico do ensino médio exigido pelo Enem e pelos principais vestibulares do Brasil.
 
-📚 As diretrizes a seguir são frequentemente utilizadas por professores, cursinhos e criadores de conteúdo como base para a estruturação de cronogramas e materiais de estudo. Elas servem como referência para entender o escopo esperado nos vestibulares — especialmente os de abrangência nacional e estaduais:
+📚 As diretrizes a seguir são frequentemente utilizadas por professores, cursinhos e criadores de conteúdo como ponto de partida para a estruturação de cronogramas e materiais de estudo. Elas servem como referência para entender o escopo esperado nos vestibulares — especialmente os de abrangência nacional e estaduais:
 
 - [Diretrizes Curriculares Nacionais para o Ensino Médio (página 144)](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15548-d-c-n-educacao-basica-nova-pdf&Itemid=30192)
 - [Base Nacional Comum Curricular (BNCC) para o Ensino Médio](http://basenacionalcomum.mec.gov.br/)
@@ -87,7 +87,7 @@ Recurso | Conteúdo
 
 # Planilha de estudos e cronogramas
 
-Seguem sugestões de planilhas e cronogramas gratuitos. Eles listam os conteúdos a serem estudados por disciplina, e não são cronogramas com horários definidos. Para montar um cronograma horário personalizado, veja [este vídeo](https://youtu.be/2j0dc9-a_7M).
+Seguem sugestões de planilhas e cronogramas gratuitos. Eles listam os conteúdos a serem estudados por disciplina, e não são cronogramas com horários definidos. Para montar um cronograma horário personalizado, veja [este vídeo](https://youtu.be/2j0dc9-a_7M), ou em maiores detalhes, [aqui](https://youtu.be/F2y6cwqFhkE).
 
 > ⚠️ **Observação:** Os cronogramas indicados aqui são gratuitos, mas podem conter propagandas dos criadores. Nenhum deles possui vínculo com o projeto **Pré-Vestibular Livre**.
 
@@ -113,11 +113,14 @@ Existem várias formas de aplicá-la. Abaixo, você encontrará algumas ferramen
 Embora os _flashcards_ sejam uma boa ferramenta, eles variam bastante em nível de ativação da memória, dependendo do formato (com lacunas, imagens, siglas ou perguntas abertas). Muitos _flashcards_, na prática, acabam sendo mais passivos do que parecem.
 
 ✅ São ideais para:
-- Fórmulas
+- Fórmulas (química, física, matemática, etc.)
 - Conceitos diretos
-- Vocabulário técnico ou de aprendizado de um novo idioma
+- Vocabulário técnico (termos da biologia, geografia física, etc.)
+- Vocabulário para aprendizado de um novo idioma
 
-📱 Uma das ferramentas mais populares para criar e revisar _flashcards_ é o [**Anki**](https://apps.ankiweb.net/), com versões para desktop, iOS e Android. É recomendado que você crie seus próprios _flashcards_, mas também pode usar "baralhos" prontos, como [este exemplo](https://ankiweb.net/shared/info/1430243551).
+📱 Uma das ferramentas gratuitas mais populares para criar e revisar _flashcards_ é o [**Anki**](https://apps.ankiweb.net/), com versões para desktop, iOS e Android. É recomendado que você crie seus próprios _flashcards_, mas também pode usar "baralhos" prontos, como [este exemplo](https://ankiweb.net/shared/info/1430243551).
+
+⚠️ Para conteúdos interpretativos ou mais complexos, outros métodos de revisão ativa podem ser mais eficazes.
 
 </details>
 
@@ -126,20 +129,25 @@ Embora os _flashcards_ sejam uma boa ferramenta, eles variam bastante em nível 
 <details>
 <summary><strong>🧾 Roteiros-resumo personalizados</strong> — Ótimo para conteúdos interpretativos e difíceis</summary>
 
-Baseado em técnicas de ensino reverso, esse método propõe que você escreva um **resumo como se fosse ensinar alguém**.
+Baseado em técnicas de ensino reverso, esse método propõe que você escreva um **resumo como se fosse ensinar alguém**. É uma forma altamente ativa de revisão, pois exige recuperar tudo da memória, sem ajudas externas.
 
 👣 Passos:
-1. Assista à aula e anote os pontos que você mais erraria.
-2. Crie um resumo simples e direto (até 1 página).
-3. Após um tempo, **reescreva o resumo do zero**, sem consultar o original.
+1. Assista à aula e anote os pontos que você considera mais relevantes, que mais erraria ou que têm mais chance de cair na prova.
+2. Crie um resumo simples e direto (idealmente com até 1 página), que servirá como modelo padrão para revisões futuras.
+3. Após algum tempo, para revisar, **reescreva o resumo do zero** em uma folha em branco, sem consultar o original.
+4. Em seguida, compare com o original e adicione na nova folha tudo o que foi esquecido.
+5. Repita os passos 3 e 4 a cada nova revisão (em dias diferentes). Com o tempo, você conseguirá reescrever o conteúdo de memória, sem consultar o original.
+
+💡 **Dicas importantes:**
+- O resumo padrão não precisa ser estático — pode ser ajustado com novas informações ao longo dos estudos.
+- Ao final da preparação, você terá uma pasta com vários resumos — idealmente com até 1 página por aula, ou 1 folha frente e verso para conteúdos mais densos.
 
 📺 Apresentado neste vídeo: [Como decorei TUDO para o ENEM (sem flashcard)](https://youtu.be/g7NE8bm-kWA)  
 📄 Exemplo prático: [Vídeo complementar aqui](https://youtu.be/wk3ZlXfuxRE)
 
-🎯 Indicado para:
-- Temas complexos
-- Matérias que exigem compreensão e raciocínio
-- Revisar antes de simulados ou redações
+🎯 Esse método não precisa ser usado para tudo, pois exige mais tempo e esforço. É especialmente indicado para:
+- Tópicos que mais caem nas provas ou que você tem maior dificuldade;
+- Matérias que exigem mais entendimento do que pura memorização.
 
 </details>
 
@@ -148,7 +156,7 @@ Baseado em técnicas de ensino reverso, esse método propõe que você escreva u
 <details>
 <summary><strong>🧪 Revisão com questões direcionadas</strong> — Reforço ativo com prática inteligente</summary>
 
-Essa técnica, explicada neste [vídeo do Vinícius Oliveira](https://youtu.be/uj1gtpMAPFU), consiste em usar **questões como forma de revisar o que já foi estudado**, e não só testar assuntos novos.
+Essa técnica, explicada neste [vídeo do Vinícius Oliveira](https://youtu.be/uj1gtpMAPFU), consiste em usar **questões como forma de revisar o que já foi estudado**, e não só testar assuntos novos. É esperado que seja feito semanalmente, para cada disciplina.
 
 🧩 Como aplicar:
 - Ao resolver, por exemplo, 20 questões da disciplina, separe:
