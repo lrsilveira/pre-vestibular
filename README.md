@@ -20,16 +20,16 @@
   
 # Sumário
 
-O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de materiais selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará materiais de alta qualidade, selecionados com base em recomendações de professores, estudantes e grupos de estudo.
+O **Pré-Vestibular Livre** é um projeto para quem deseja estudar de forma independente tanto para o Enem quanto para os principais vestibulares do Brasil, sem depender de cursos pagos. Este **não é um curso nem um roteiro estruturado de estudos, mas uma curadoria de recursos didáticos selecionados. O estudante deve escolher os conteúdos e organizar sua própria rotina de estudos, de acordo com seu conhecimento prévio e necessidades**. Aqui você encontrará recursos didáticos de alta qualidade, selecionados com base em recomendações de professores, estudantes e grupos de estudo.
 
 Este guia é voltado para estudantes disciplinados, focados e comprometidos, que possuem hábitos de estudo autônomos e buscam apoio em comunidades estudantis. O projeto não tem qualquer vínculo com cursinhos, instituições de ensino ou empresas do setor educacional.
 
-## Bases para a lista de materiais didáticos
+## Bases para a lista de recursos didáticos
 
 ### **Abrangência de conteúdo**
-A seleção de materiais considera os conteúdos abordados no ensino médio, no ENEM e nos principais vestibulares do Brasil. Itens específicos de cada prova, como listas de obras literárias obrigatórias, ainda não foram incluídos.
+Os temas abordados neste projeto contemplam o conteúdo típico do ensino médio exigido pelo Enem e pelos principais vestibulares do Brasil.
 
-Referências utilizadas:
+📚 As diretrizes a seguir são frequentemente utilizadas por professores, cursinhos e criadores de conteúdo como base para a estruturação de cronogramas e materiais de estudo. Elas servem como referência para entender o escopo esperado nos vestibulares — especialmente os de abrangência nacional e estaduais:
 
 - [Diretrizes Curriculares Nacionais para o Ensino Médio (página 144)](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=15548-d-c-n-educacao-basica-nova-pdf&Itemid=30192)
 - [Base Nacional Comum Curricular (BNCC) para o Ensino Médio](http://basenacionalcomum.mec.gov.br/)
@@ -39,18 +39,17 @@ Referências utilizadas:
 - [Manual do candidato Fuvest 2026](https://www.fuvest.br/wp-content/uploads/fuvest2026_programa-vestibular.pdf)
 - [Manual do candidato Unicamp 2025](https://www.comvest.unicamp.br/wp-content/uploads/2024/07/MANUAL-2025.pdf)
 
-### **Materiais didáticos**
-A seleção de materiais se baseia em indicações de professores do ensino médio e de cursinhos, além de sugestões de estudantes em grupos de estudo. Também inclui alguns materiais utilizados por experiência própria.
+### **Recursos didáticos**
+Os recursos reunidos aqui foram selecionados com base em recomendações de professores, estudantes e grupos de estudo, bem como por experiência prática do próprio autor. A curadoria prioriza materiais gratuitos e de qualidade reconhecida.
 
-📌 **Em breve, serão adicionadas recomendações específicas para cada disciplina**, com indicações de:
+📌 Em breve, serão adicionadas sugestões específicas por disciplina, incluindo:
 - Leituras recomendadas (gratuitas ou pagas);
-- Sites confiáveis e simuladores interativos, conforme o caso;
-- Vídeos explicativos e canais no YouTube.
+- Sites confiáveis e simuladores interativos;
+- Canais no YouTube e vídeos explicativos.
 
-Enquanto isso, os recursos já disponíveis — como cronogramas, técnicas de estudo, exercícios e apostilas gratuitas — podem ser usados para organizar sua rotina de estudos e guiar sua preparação de forma autônoma.
+Enquanto isso, já é possível usar os recursos disponíveis — como cronogramas, técnicas de estudo, exercícios resolvidos e apostilas gratuitas — para estruturar sua preparação de forma autônoma.
 
-> **Aviso:**
-> As recomendações de materiais são baseadas na qualidade e no acesso gratuito sempre que possível. No entanto, alguns conteúdos podem conter menções a cursos pagos, cupons ou promoções. O **Pré-Vestibular Livre não possui qualquer vínculo comercial** com essas ofertas e não recebe benefícios por indicações. O objetivo é apenas fornecer recursos úteis para estudo independente.
+> ⚠️ Alguns conteúdos podem conter menções a cursos pagos, cupons ou promoções. O projeto **Pré-Vestibular Livre**, no entanto, não possui vínculo comercial com nenhuma plataforma ou empresa educacional. O objetivo é apenas fornecer recursos úteis para estudo independente.
 
 ---
 
@@ -233,6 +232,6 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 📌 **Este projeto está em constante atualização!**  
 Novos conteúdos, como recomendações por disciplina, serão adicionados gradualmente. Se quiser colaborar com sugestões ou tirar dúvidas, abra uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) — sua participação é bem-vinda!
 
-## 👤 Autor
+## Autor
 
 * **[Luciano](https://github.com/lrsilveira)** – idealizador e mantenedor do projeto
