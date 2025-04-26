@@ -17,6 +17,7 @@
 - [🗂️ Listas de questões organizadas por assunto](#listas-de-quest%C3%B5es-organizadas-por-assunto)
 - [📘 Apostilas gratuitas de cursinhos](#apostilas-gratuitas-de-cursinhos)
 - [📄 Provas anteriores e simulados](#provas-anteriores-e-simulados)
+- [📚 Recursos didáticos por disciplina](#recursos-did%C3%A1ticos-por-disciplina)
   
 # Sumário
 
@@ -40,9 +41,9 @@ Os temas abordados neste projeto contemplam o conteúdo típico do ensino médio
 - [Manual do candidato Unicamp 2025](https://www.comvest.unicamp.br/wp-content/uploads/2024/07/MANUAL-2025.pdf)
 
 ### **Recursos didáticos**
-Os recursos reunidos aqui foram selecionados com base em recomendações de professores, estudantes e grupos de estudo, bem como por experiência prática do próprio autor. A curadoria prioriza materiais gratuitos e de qualidade reconhecida.
+Os recursos reunidos aqui foram selecionados com base em recomendações de professores, estudantes e grupos de estudo, além da experiência prática do autor. A curadoria prioriza materiais gratuitos e de qualidade reconhecida, organizados por temas gerais.
 
-📌 Em breve, serão adicionadas sugestões específicas por disciplina, incluindo:
+📌 Em breve, será criada uma seção dedicada a **cada disciplina**, com:
 - Leituras recomendadas (gratuitas ou pagas);
 - Sites confiáveis e simuladores interativos;
 - Canais no YouTube e vídeos explicativos.
@@ -237,8 +238,46 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 
 ---
 
+# Recursos didáticos por disciplina
+
+Esta seção está em construção e reunirá, em breve, sugestões de recursos didáticos para cada disciplina, como:
+
+- Leituras recomendadas (gratuitas ou pagas);
+- Vídeos explicativos e playlists;
+- Sites confiáveis, simuladores e materiais extras.
+
+🔗 Em breve, os links abaixo levarão a páginas específicas com os recursos indicados para cada disciplina.
+
+### Linguagens
+- **Língua Portuguesa**
+  - [Gramática](#)
+  - [Interpretação de texto](#)
+  - [Literatura](#)
+  - [Redação](#)
+- [Língua Estrangeira Moderna](#)
+- [Artes](#)
+- [Educação Física](#)
+
+### Matemática
+- [Matemática](#)
+
+### Ciências da Natureza
+- [Biologia](#)
+- [Física](#)
+- [Química](#)
+
+### Ciências Humanas
+- [História](#)
+- [Geografia](#)
+- [Filosofia](#)
+- [Sociologia](#)
+
+---
+
 📌 **Este projeto está em constante atualização!**  
 Novos conteúdos, como recomendações por disciplina, serão adicionados gradualmente. Se quiser colaborar com sugestões ou tirar dúvidas, abra uma [issue](https://github.com/lrsilveira/pre-vestibular/issues) — sua participação é bem-vinda!
+
+---
 
 ## Autor
 
