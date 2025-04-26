@@ -249,28 +249,30 @@ Esta seção está em construção e reunirá, em breve, sugestões de recursos 
 🔗 Em breve, os links abaixo levarão a páginas específicas com os recursos indicados para cada disciplina.
 
 ### Linguagens
-- **Língua Portuguesa**
-  - [Gramática](#)
-  - [Interpretação de texto](#)
-  - [Literatura](#)
-  - [Redação](#)
-- [Língua Estrangeira Moderna](#)
-- [Artes](#)
-- [Educação Física](#)
+- Língua Portuguesa
+  - Gramática
+  - Interpretação de texto
+  - Literatura
+  - Redação
+- Língua Estrangeira Moderna
+- Artes
+- Educação Física
 
 ### Matemática
-- [Matemática](#)
+- Matemática
 
 ### Ciências da Natureza
-- [Biologia](#)
-- [Física](#)
-- [Química](#)
+- Biologia
+- Física
+- Química
 
 ### Ciências Humanas
-- [História](#)
-- [Geografia](#)
-- [Filosofia](#)
-- [Sociologia](#)
+- História
+- Geografia
+- Filosofia
+- Sociologia
+
+📌 Esta seção está em desenvolvimento.
 
 ---
 
