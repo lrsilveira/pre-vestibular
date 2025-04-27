@@ -254,7 +254,7 @@ Esta seção está em construção e reunirá, em breve, sugestões de recursos 
   - Interpretação de texto
   - Literatura
   - Redação
-- Língua Estrangeira Moderna
+- [Língua Estrangeira Moderna](disciplinas/lingua_estrangeira.md)
 - Artes
 - Educação Física
 
