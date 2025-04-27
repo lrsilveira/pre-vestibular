@@ -39,6 +39,27 @@ Nos vestibulares brasileiros, o principal objetivo da disciplina de Língua Estr
 
 ---
 
+## 📖 Dicionários e tradutores úteis
+
+Ferramenta | Descrição
+:-- | :--
+[**Oxford Learner's Dictionaries**](https://www.oxfordlearnersdictionaries.com/) | Dicionário inglês-inglês voltado para estudantes, com explicações simples e exemplos de uso real em frases.
+[**Cambridge Dictionary**](https://dictionary.cambridge.org/) | Dicionário tradicional de inglês britânico e americano. Possui seções de sinônimos, expressões comuns e exemplos contextualizados. Inclui dicionários bilíngues.
+[**Merriam-Webster Dictionary**](https://www.merriam-webster.com/) | Dicionário inglês-inglês tradicional, bastante usado nos EUA. Bom para estudantes intermediários e avançados.
+[**Reverso Context**](https://context.reverso.net/traducao/) | Tradutor baseado em contexto real, ideal para compreender expressões e frases no uso cotidiano.
+[**Google Tradutor**](https://translate.google.com/) | Ferramenta prática para traduções rápidas. Útil para consultas iniciais, mas deve ser usada com critério para frases complexas.
+
+---
+
+## 📝 Prática de gramática e vocabulário
+
+| Site | Descrição |
+|:---|:---|
+| [Oxford English File – Online Practice](https://elt.oup.com/student/englishfile/beginner3/vocabulary/?cc=us&selLanguage=en) | Plataforma complementar aos livros *English File* da Oxford. Permite treinar gramática, vocabulário e pronúncia através de exercícios interativos gratuitos. Ideal para reforçar a prática em níveis iniciante e intermediário. |
+| [British Council – LearnEnglish Teens](https://learnenglishteens.britishcouncil.org/) | Portal oficial do British Council voltado para jovens estudantes. Oferece textos, vídeos, quizzes e jogos para praticar leitura, vocabulário e gramática de forma divertida e gratuita. |
+
+---
+
 ## 📋 Estratégia sugerida para vestibulares
 
 🔎 Para a maioria das provas, o principal é:
@@ -58,7 +79,9 @@ Nos vestibulares brasileiros, o principal objetivo da disciplina de Língua Estr
 ## 🎯 Dica adicional importante
 
 🎯 Para fins de vestibular, foque seus estudos em leitura, vocabulário e interpretação textual. Essas habilidades são as mais exigidas nas provas.
+
 💬 Se possível, busque se expor minimamente à pronúncia correta (ouvindo pequenos trechos em inglês, espanhol ou francês) para evitar a criação de vícios de leitura e facilitar um aprendizado mais completo no futuro.
+
 📚 Lembre-se: aprender um idioma vai além do vestibular, e entender a pronúncia correta pode ser um grande diferencial se você quiser usar a língua para estudos, viagens ou carreira profissional no futuro!
 
 ---
