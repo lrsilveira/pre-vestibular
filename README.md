@@ -240,13 +240,15 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 
 # Recursos didáticos por disciplina
 
-Esta seção está em construção e reunirá, em breve, sugestões de recursos didáticos para cada disciplina, como:
+Os materiais já indicados no repositório — como cronogramas, técnicas de estudo, apostilas de cursinho (incluindo vídeos dos principais assuntos) e listas de questões — são suficientes para uma preparação completa.
+
+Esta nova seção, no entanto, buscará ampliar ainda mais as opções, trazendo recursos didáticos organizados por disciplina, como:
 
 - Leituras recomendadas (gratuitas ou pagas);
-- Vídeos explicativos e playlists;
-- Sites confiáveis, simuladores e materiais extras.
+- Sites confiáveis e simuladores;
+- Playlists e vídeos explicativos.
 
-🔗 Em breve, os links abaixo levarão a páginas específicas com os recursos indicados para cada disciplina.
+📌 A construção dessa seção é progressiva, e novas recomendações serão adicionadas conforme a curadoria avança.  
 
 ### Linguagens
 - Língua Portuguesa
