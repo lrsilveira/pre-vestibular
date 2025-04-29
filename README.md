@@ -221,6 +221,11 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 ### 📝 Enem
 👉 [Provas e gabaritos do Enem – Site oficial do Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)
 
+### 📑 Unesp
+👉 [Unesp - arquivo](https://vestibular.unesp.br/portal#!/arquivo/)
+
+> 💡 A Unesp mantém arquivados apenas os vestibulares dos últimos 5 anos. Para anos anteriores, é necessário procurar em outras fontes.
+
 ### 🧑‍💻 Univesp
 👉 [Provas e gabaritos anteriores da Univesp](https://univesp.br/vestibular)
 
