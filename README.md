@@ -221,15 +221,20 @@ Resolver provas anteriores é uma das formas mais eficazes de se preparar para o
 ### 📝 Enem
 👉 [Provas e gabaritos do Enem – Site oficial do Inep](https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/enem/provas-e-gabaritos)
 
-### 📑 Unesp
+### 📑 Unesp (Fundação Vunesp)
 👉 [Unesp - arquivo](https://vestibular.unesp.br/portal#!/arquivo/)
 
 > 💡 A Unesp mantém arquivados apenas os vestibulares dos últimos 5 anos. Para anos anteriores, é necessário procurar em outras fontes.
 
-### 🧑‍💻 Univesp
+### 🎓 Unifesp (Fundação Vunesp)
+👉 [Vestibulares anteriores - Unifesp](https://ingresso.unifesp.br/vestibulares-anteriores)
+
+> 💡 Há um erro no site - vários cadernos de questões estão com um mesmo nome de arquivo: "Prova X - Língua Portuguesa, Língua Inglesa e Redação", mas trata-se de cadernos distintos.
+
+### 🧑‍💻 Univesp (Fundação Vunesp em 2025)
 👉 [Provas e gabaritos anteriores da Univesp](https://univesp.br/vestibular)
 
-> 💡 Na página da Univesp, role para baixo para ver os exames completos dos anos anteriores.
+> 💡 Na página da Univesp, role para baixo para ver os exames completos dos anos anteriores. As bancas mudaram conforme a prova: **Fundação FAT** - 2024, 2019 (meio do ano) e 2017; **Vunesp** - 2023, 2022, 2021 e 2018 (início e meio do ano); **IBFC** - 2019 (fim do ano).
 
 ### 📚 Fuvest
 👉 [Acervo – Vestibular da USP](https://www.fuvest.br/acervo-vestibular)
