@@ -2,16 +2,40 @@
 
 > 📚 Esta seção traz recursos para estudo autodidata de língua estrangeira (Inglês, Espanhol ou outros idiomas), com foco em interpretação de texto para vestibulares.
 
+> 📌 **Nota:** Alguns recursos indicados foram produzidos em anos anteriores, mas continuam relevantes para o conteúdo exigido nos vestibulares. A escolha foi feita com base na qualidade e aplicabilidade do material.
+
 ---
 
 ## ✨ Visão Geral
 
 Nos vestibulares brasileiros, o principal objetivo da disciplina de Língua Estrangeira é avaliar a **capacidade de leitura e interpretação de textos**.
 
-- 📌 **O idioma mais comum é o inglês**, mas algumas provas oferecem a opção de espanhol ou francês.  
+- 📌 **O idioma mais comum é o inglês**, mas algumas provas oferecem a opção de espanhol.  
 - 🎯 **O foco é na compreensão de ideias e vocabulário contextualizado**, e não na fluência oral.
 
 > 🧠 **Nota:** As dicas a seguir podem ser adaptadas para o estudo de qualquer idioma.
+
+## 📋 Estratégia sugerida para vestibulares
+
+🔎 Para a maioria das provas, o principal é:
+
+- 📖 **Ler textos variados** (reportagens, artigos, crônicas, notícias, letras de música socialmente relevantes);  
+- 🧠 **Ampliar o vocabulário** em temas como: meio ambiente, questões sociais, saúde e ciência, arte e cultura, direitos e cidadania, educação, tecnologia e economia.
+
+### 📌 Método prático:
+
+- **Leia textos variados** sobre os temas sugeridos acima e anote palavras desconhecidas (copie também a frase completa).
+- **Monte _flashcards_ no Anki** usando frases reais (tutorial indicado nas _dicas de aprendizado_ abaixo).
+- **Revise seu vocabulário** regularmente no Anki, que usa técnicas de repetição espaçada.
+- **Estude gramática** para corrigir lacunas importantes (tempos verbais, pronomes, preposições, etc.), pois é essencial para compreensão de textos.
+
+### 🎯 Dica adicional importante
+
+🎯 Para fins de vestibular, foque seus estudos em leitura, vocabulário e interpretação textual. Essas habilidades são as mais exigidas nas provas.
+
+💬 Se possível, busque se expor minimamente à pronúncia correta (ouvindo pequenos trechos em inglês ou espanhol) para evitar a criação de vícios de leitura e facilitar um aprendizado mais completo no futuro.
+
+📚 Lembre-se: aprender um idioma vai além do vestibular, e entender a pronúncia correta pode ser um grande diferencial se você quiser usar a língua para estudos, viagens ou carreira profissional no futuro!
 
 ---
 
@@ -63,6 +87,16 @@ Ferramenta | Descrição
 
 > ⚠️ O site "Curso de Inglês Grátis" foi arquivado em 2022. Alguns links podem não funcionar, e interações como cadastro ou comentários não estão disponíveis. O conteúdo principal permanece acessível e livre de propagandas.
 
+## 📖 Cursos completos e séries de vídeo
+
+> 📌 **Nota:** Os dois materiais indicados a seguir foram produzidos há mais tempo, mas continuam altamente relevantes para o estudo de língua estrangeira.
+
+- [**Curso de Gramática de Inglês – Vestibulando Digital (TV Cultura)**](https://www.youtube.com/playlist?list=PL4264F1C8265CFBA4)  
+  Curso gratuito originalmente exibido pela TV Cultura entre 2002 e 2004, com 24 aulas focadas em gramática inglesa tradicional. Apesar da data, o conteúdo é sólido e cobre pontos essenciais para interpretação e compreensão textual exigidos em vestibulares.
+
+- [**English Made in Brazil – Vídeos curtos (Schütz & Kanomata)**](https://sk.com.br/english-made-in-brazil/licoes-em-video/)  
+  Série de 12 vídeos (~1 minuto cada) com lições sobre contrastes entre português e inglês. Produzido pela escola Schütz & Kanomata como material gratuito para estudantes de idiomas.  
+  > ⚠️ Os vídeos incluem pequenas inserções de divulgação da escola.
 
 ## 📝 Prática de gramática e vocabulário
 
@@ -109,31 +143,6 @@ Ferramenta | Descrição
 | [Dicionário Larousse](http://www.larousse.fr/dictionnaires/francais-monolingue) | Um dos dicionários de francês mais tradicionais, muito usado em escolas e universidades. |
 
 </details>
-
----
-
-## 📋 Estratégia sugerida para vestibulares
-
-🔎 Para a maioria das provas, o principal é:
-
-- 📖 **Ler textos variados** (reportagens, artigos, crônicas, notícias);  
-- 🧠 **Ampliar o vocabulário** em temas como: meio ambiente, questões sociais, saúde e ciência, arte e cultura, direitos e cidadania, educação, tecnologia e economia.
-
-### 📌 Método prático:
-
-- **Leia textos variados** sobre os temas sugeridos acima e anote palavras desconhecidas (copie também a frase completa).
-- **Monte _flashcards_ no Anki** usando frases reais (tutorial indicado acima).
-- **Revise seu vocabulário** regularmente no Anki, que usa técnicas de repetição espaçada.
-- **Estude gramática** apenas para corrigir lacunas importantes (tempos verbais, pronomes, etc.).
-
-
-## 🎯 Dica adicional importante
-
-🎯 Para fins de vestibular, foque seus estudos em leitura, vocabulário e interpretação textual. Essas habilidades são as mais exigidas nas provas.
-
-💬 Se possível, busque se expor minimamente à pronúncia correta (ouvindo pequenos trechos em inglês, espanhol ou francês) para evitar a criação de vícios de leitura e facilitar um aprendizado mais completo no futuro.
-
-📚 Lembre-se: aprender um idioma vai além do vestibular, e entender a pronúncia correta pode ser um grande diferencial se você quiser usar a língua para estudos, viagens ou carreira profissional no futuro!
 
 ---
 
