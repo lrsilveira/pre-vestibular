@@ -37,6 +37,30 @@ Nos vestibulares brasileiros, o principal objetivo da disciplina de Língua Estr
 
 📚 Lembre-se: aprender um idioma vai além do vestibular, e entender a pronúncia correta pode ser um grande diferencial se você quiser usar a língua para estudos, viagens ou carreira profissional no futuro!
 
+<details>
+<summary><strong>📊 Testes de nível de inglês (opcional)</strong></summary>
+
+🎯 Se quiser avaliar seu nível atual de inglês, seguem duas opções de testes gratuitos online:
+
+| Plataforma | Duração | Características |
+|:--|:--|:--|
+| [**EF SET**](https://www.efset.org/) | 50 ou 90 min | Avalia _Reading_, _Listening_ (e _Writing_/_Speaking_ na versão completa). Gera certificado. Ideal para quem busca um diagnóstico mais robusto. |
+| [**Cambridge English**](https://www.cambridgeenglish.org/pt/test-your-english/general-english/) | ~15 min | Teste leve e rápido. Estima o nível de inglês com base em leitura e gramática. Sem certificado. |
+
+**Sobre o EF SET:**  
+O teste completo (90 minutos) avalia as quatro habilidades (leitura, escuta, escrita e fala) e oferece um certificado gratuito. O teste mais curto (50 minutos) avalia apenas leitura e escuta.
+
+🔎 Ao final de qualquer um dos testes indicados, você recebe seu resultado com base na escala do Quadro Europeu Comum de Referência para Línguas (CEFR): A1, A2, B1, B2, C1, C2.
+
+💡 Esses testes são opcionais e servem apenas como referência pessoal — eles não são exigidos em vestibulares, nem substituem certificados oficiais como TOEFL ou IELTS.
+
+📌 **Por que fazer?**
+- Entender seu nível ajuda a escolher melhor os materiais para leitura e vocabulário.
+- Pode aumentar sua motivação e senso de progresso.
+- Se pretende usar o inglês no futuro (intercâmbio, carreira, etc.), é uma boa forma de se preparar.
+
+</details>
+
 ---
 
 ## 📚 Dicas de aprendizado
