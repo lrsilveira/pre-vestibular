@@ -37,6 +37,8 @@ Nos vestibulares brasileiros, o principal objetivo da disciplina de Língua Estr
 
 📚 Lembre-se: aprender um idioma vai além do vestibular, e entender a pronúncia correta pode ser um grande diferencial se você quiser usar a língua para estudos, viagens ou carreira profissional no futuro!
 
+---
+
 <details>
 <summary><strong>📊 Testes de nível de inglês (opcional)</strong></summary>
 
