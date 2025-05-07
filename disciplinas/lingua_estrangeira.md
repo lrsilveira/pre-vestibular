@@ -117,8 +117,8 @@ Ferramenta | Descrição
 
 > 📌 **Nota:** Os dois materiais indicados a seguir foram produzidos há mais tempo, mas continuam altamente relevantes para o estudo de língua estrangeira.
 
-- [**Curso de Gramática de Inglês – Vestibulando Digital (TV Cultura)**](https://www.youtube.com/playlist?list=PL4264F1C8265CFBA4)  
-  Curso gratuito originalmente exibido pela TV Cultura entre 2002 e 2004, com 24 aulas focadas em gramática inglesa tradicional. Apesar da data, o conteúdo é sólido e cobre pontos essenciais para interpretação e compreensão textual exigidos em vestibulares.
+- [**Curso de Gramática de Inglês – Vestibulando (1ª versão - TV Cultura)**](https://www.youtube.com/playlist?list=PLoQFzO3cybqG28gQjZwshCUdvUQIcJDMn)  
+  Curso gratuito originalmente exibido pela TV Cultura entre 1992-1996, com 40 aulas focadas em gramática inglesa tradicional. Apesar da data, o conteúdo é sólido e cobre pontos essenciais para interpretação e compreensão textual exigidos em vestibulares. Uma versão posterior (Vestibulando digital), entre 2002-2004, porém bem mais resumida, pode ser encontrada [aqui](https://www.youtube.com/playlist?list=PL4264F1C8265CFBA4).
 
 - [**English Made in Brazil – Vídeos curtos (Schütz & Kanomata)**](https://sk.com.br/english-made-in-brazil/licoes-em-video/)  
   Série de 12 vídeos (~1 minuto cada) com lições sobre contrastes entre português e inglês. Produzido pela escola Schütz & Kanomata como material gratuito para estudantes de idiomas.  
