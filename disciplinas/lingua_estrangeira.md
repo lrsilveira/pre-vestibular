@@ -117,8 +117,12 @@ Ferramenta | Descrição
 
 > 📌 **Nota:** Os dois materiais indicados a seguir foram produzidos há mais tempo, mas continuam altamente relevantes para o estudo de língua estrangeira.
 
-- [**Curso de Gramática de Inglês – Vestibulando (1ª versão - TV Cultura)**](https://www.youtube.com/playlist?list=PLoQFzO3cybqG28gQjZwshCUdvUQIcJDMn)  
+- [**Curso de Gramática de Inglês – Vestibulando (1ª versão - TV Cultura)** (Prof. Sidney Campos)](https://www.youtube.com/playlist?list=PLoQFzO3cybqG28gQjZwshCUdvUQIcJDMn)  
   Curso gratuito originalmente exibido pela TV Cultura entre 1992-1996, com 49 aulas focadas em gramática inglesa tradicional. Apesar da data, o conteúdo é sólido e cobre pontos essenciais para interpretação e compreensão textual exigidos em vestibulares. Uma versão posterior (Vestibulando digital), entre 2002-2004, porém bem mais resumida (24 aulas), pode ser encontrada [aqui](https://www.youtube.com/playlist?list=PL4264F1C8265CFBA4).
+
+- [**ENEM 2019 – Dicas de inglês para a prova** (Prof. Sidney Campos – Curso Objetivo)](https://youtu.be/jDjxK4HqJrI)  
+  A aula apresenta estratégias para resolver questões de inglês do ENEM, com foco em interpretação textual e leitura crítica. O professor, conhecido por sua atuação no programa Vestibulando da TV Cultura, analisa tipos recorrentes de questões da prova e propõe uma abordagem prática para resolução.  
+  > ⚠️ O vídeo foi publicado no canal oficial do Curso Objetivo e contém inserções promocionais do cursinho.
 
 - [**English Made in Brazil – Vídeos curtos (Schütz & Kanomata)**](https://sk.com.br/english-made-in-brazil/licoes-em-video/)  
   Série de 12 vídeos (~1 minuto cada) com lições sobre contrastes entre português e inglês. Produzido pela escola Schütz & Kanomata como material gratuito para estudantes de idiomas.  
